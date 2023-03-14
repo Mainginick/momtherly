@@ -1,0 +1,39 @@
+BODY{
+    padding: 0px !important;
+    background-color: #b76e79(176, 224, 230, 0.521);
+    MARGIN: 0PX !important;
+}
+.CONTAINER{
+    padding: 0px !important;
+    background-color: #b76e79;
+    margin: 0px !important;
+    width: 100%;
+}
+.NAVBAR{
+    width: auto;
+    background-color: #b76e79;
+    position: fixed;
+    top: 0px;
+    box-shadow: #fafa 11px 0px 10px 0px;
+}
+.NAVBAR1{
+    width: 30%;
+    float: right;
+    text-align: right;
+}   
+UL{
+    padding: 0px !important;
+    width: 100%;
+    margin: 0px;
+    list-style: none;
+    color: #b76e79;
+    background-color: #ffff;
+}
+ul li{
+    float: left;
+    width: 20%;
+    height: 60px;
+    line-height: 70vh;
+    background-color: #ffff;
+    text-align: center;
+}

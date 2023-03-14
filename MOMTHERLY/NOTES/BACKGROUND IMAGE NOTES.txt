@@ -1,0 +1,2 @@
+BACKGROUND IMAGE
+	<body background="C:\MOMTHERLY\PHOTOS	\mom1.jpeg"><br>
